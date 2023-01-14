@@ -55,5 +55,5 @@ The following image is the result:
 - JSON Formatter: <a href="https://jsonformatter.org/">JSON Formatter</a>
 - Software: Visual Studio 1.69.1 
 - HTML code: <a href="https://github.com/GILEV0/leaflet-challenge/blob/main/index.html" target="_blank">index.html</a>
-- JavaScript code:  <a href="https://github.com/GILEV0/leaflet-challenge/blob/main/static/js/logic.js" target="_blank">challenge_logic.js</a>
-- Tectonic Plate data: <a href="https://github.com/fraxen/tectonicplates/blob/master" target="_blank">boundaries.dbf</a>
+- JavaScript code:  <a href="https://github.com/GILEV0/leaflet-challenge/blob/main/static/js/logic.js" target="_blank">logic.js</a>
+- Tectonic Plate data: <a href="https://github.com/fraxen/tectonicplates" target="_blank">boundaries.dbf</a>
