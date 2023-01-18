@@ -51,7 +51,8 @@ The following image is the result:
 ![image](https://user-images.githubusercontent.com/112173540/212466686-8dbe5a1d-66cc-4db5-bc62-34a42c0debd3.png)
 
 
-#### Deployed website: https://gilev0.github.io/leaflet-challenge/
+### Deployed website: 
+https://gilev0.github.io/leaflet-challenge/
 
 ## Resources used
 - Data Source: <a href="https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php">Earthquake Data</a>
